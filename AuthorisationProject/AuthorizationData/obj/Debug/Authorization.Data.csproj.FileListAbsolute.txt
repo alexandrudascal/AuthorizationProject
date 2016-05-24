@@ -1,0 +1,10 @@
+D:\Teza\AuthorisationProject\AuthorizationData\bin\Debug\AuthorizationData.dll.config
+D:\Teza\AuthorisationProject\AuthorizationData\bin\Debug\AuthorizationData.dll
+D:\Teza\AuthorisationProject\AuthorizationData\bin\Debug\AuthorizationData.pdb
+D:\Teza\AuthorisationProject\AuthorizationData\bin\Debug\EntityFramework.dll
+D:\Teza\AuthorisationProject\AuthorizationData\bin\Debug\EntityFramework.SqlServer.dll
+D:\Teza\AuthorisationProject\AuthorizationData\bin\Debug\EntityFramework.xml
+D:\Teza\AuthorisationProject\AuthorizationData\bin\Debug\EntityFramework.SqlServer.xml
+D:\Teza\AuthorisationProject\AuthorizationData\obj\Debug\Authorization.Data.csprojResolveAssemblyReference.cache
+D:\Teza\AuthorisationProject\AuthorizationData\obj\Debug\AuthorizationData.dll
+D:\Teza\AuthorisationProject\AuthorizationData\obj\Debug\AuthorizationData.pdb
