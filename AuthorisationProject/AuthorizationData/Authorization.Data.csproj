@@ -56,7 +56,6 @@
     <Compile Include="Enities\Agent.cs" />
     <Compile Include="Enities\Authorization.cs" />
     <Compile Include="Enities\Subdivision.cs" />
-    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -1,0 +1,16 @@
+D:\Teza\AuthorizationProject\AuthorisationProject\AuthorizationUI\bin\Release\AuthorizationUI.exe.config
+D:\Teza\AuthorizationProject\AuthorisationProject\AuthorizationUI\obj\Release\Authorization.WinForms.csproj.ResolveComReference.cache
+D:\Teza\AuthorizationProject\AuthorisationProject\AuthorizationUI\bin\Release\AuthorizationUI.exe
+D:\Teza\AuthorizationProject\AuthorisationProject\AuthorizationUI\bin\Release\AuthorizationUI.pdb
+D:\Teza\AuthorizationProject\AuthorisationProject\AuthorizationUI\bin\Release\AuthorizationData.dll
+D:\Teza\AuthorizationProject\AuthorisationProject\AuthorizationUI\bin\Release\EntityFramework.dll
+D:\Teza\AuthorizationProject\AuthorisationProject\AuthorizationUI\bin\Release\EntityFramework.SqlServer.dll
+D:\Teza\AuthorizationProject\AuthorisationProject\AuthorizationUI\bin\Release\AuthorizationData.pdb
+D:\Teza\AuthorizationProject\AuthorisationProject\AuthorizationUI\bin\Release\EntityFramework.xml
+D:\Teza\AuthorizationProject\AuthorisationProject\AuthorizationUI\bin\Release\EntityFramework.SqlServer.xml
+D:\Teza\AuthorizationProject\AuthorisationProject\AuthorizationUI\obj\Release\Authorization.WinForms.csprojResolveAssemblyReference.cache
+D:\Teza\AuthorizationProject\AuthorisationProject\AuthorizationUI\obj\Release\AuthorizationUI.AuthorizationForm.resources
+D:\Teza\AuthorizationProject\AuthorisationProject\AuthorizationUI\obj\Release\AuthorizationUI.Properties.Resources.resources
+D:\Teza\AuthorizationProject\AuthorisationProject\AuthorizationUI\obj\Release\Authorization.WinForms.csproj.GenerateResource.Cache
+D:\Teza\AuthorizationProject\AuthorisationProject\AuthorizationUI\obj\Release\AuthorizationUI.exe
+D:\Teza\AuthorizationProject\AuthorisationProject\AuthorizationUI\obj\Release\AuthorizationUI.pdb
