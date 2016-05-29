@@ -23,6 +23,8 @@ namespace AuthorizationUI
 
         private void AuthorizationForm_Load(object sender, EventArgs e)
         {
+            System.Threading.Thread.CurrentThread.CurrentCulture =
+                System.Globalization.CultureInfo.CreateSpecificCulture("ro");
             SetActivityProfiles();
             SetSubdivisions();
         }
