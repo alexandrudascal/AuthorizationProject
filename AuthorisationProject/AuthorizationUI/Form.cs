@@ -176,7 +176,6 @@ namespace AuthorizationUI
             var result = _dbContext.Authorizations.Include(ap => ap.ActivityProfiles)
                                                  .Include(ap => ap.Agent)
                                                  .Include(ap => ap.Subdivision)
-                                                 .ToList()
                                                  .Select(at => new AuthorisationModel
                                                  {
                                                      ASVF = at.ASVF,
